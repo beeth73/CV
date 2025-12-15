@@ -3,7 +3,6 @@
 [![LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080.svg)](https://www.latex-project.org/)
 [![Status](https://img.shields.io/badge/Status-Maintained-green.svg)]()
 
-**"Career as Code."**
 
 This repository hosts the source code (`.tex`) and compiled binaries (`.pdf`) of my professional resume. Maintained in version control because a career is an iterative process, not a static document.
 
